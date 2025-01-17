@@ -1,4 +1,5 @@
-## Hi there 👋
+## HI 👋 
+I'm Chaeyeon !! studying python
 
 <!--
 **amy010510/amy010510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
