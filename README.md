@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Welcome!&color=gradient&fontColor=d6ace6)
-> This is Amy's github!!   안녕하세요, 이채연 입니다
+> This is Amy's github!!
+> 안녕하세요, 사용자의 경험(UX)를 생각하는 개발자 이채연 입니다
 
 <!--
 **amy010510/amy010510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
