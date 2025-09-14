@@ -30,15 +30,19 @@ Here are some ideas to get you started:
 <!--CSS-->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 
 ### Framework
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <!--Vue.js-->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&Color=white"/>
   <br/>
+<img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white"/>
+
 
 ### ETC
   <!--MySQL-->
@@ -50,7 +54,9 @@ Here are some ideas to get you started:
 <br/>
 <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+
   <br/>
 
 ## Certificate
